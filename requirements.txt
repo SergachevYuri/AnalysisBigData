@@ -1,0 +1,4 @@
+luigi
+pandas
+requests
+wget
